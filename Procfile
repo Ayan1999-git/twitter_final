@@ -1,4 +1,2 @@
 worker: python mainbot.py
-    
-
-
+   
